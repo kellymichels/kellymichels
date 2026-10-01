@@ -6,7 +6,7 @@ I spent 26 years at Autodesk, most recently shipping AI features in **Autodesk M
 
 Since the 2026 layoffs I have been building. Not prototypes: a fleet of running products on infrastructure I operate myself — multi-tenant auth, per-tenant data isolation, RAG over customers' own records, CI, TLS, mail, monitoring, and the deploy tooling underneath all of it.
 
-**[evomedia.net](https://evomedia.net)** is the current answer to *"what are you doing now?"*
+**[evomedia.net](https://evomedia.net)** is my personal  site and it is the current answer to *"what are you doing now?"*
 
 ---
 
